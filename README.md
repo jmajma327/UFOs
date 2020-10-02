@@ -1,5 +1,5 @@
 # Overview of Project
-I analyzed UFO sightings data in order to create a webpage and table. I filtered this data by UFO sightings date, city, state, country, and shape. 
+The purpose of this analyzes was to create a webpage and table for UFO sightings data. The data was filtered by UFO sightings date, city, state, country, and shape. 
 
 # Results
 On the left-hand side of the webpage there is a filter search. You can filter by date, city, state, country, and shape. You can filter multiple fields at a time. After you have entered all search criteria, the table will show the date, city, state, country, shape, the amount of time the sighting took place, and a description of the sighting.
